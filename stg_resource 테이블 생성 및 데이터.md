@@ -1,6 +1,5 @@
 # stg_resource 테이블 생성 및 데이터
 
-텍스트: 10_create_raw_resource_table.sql
 
 ## #csv 파일 준비 (주의사항)
 
